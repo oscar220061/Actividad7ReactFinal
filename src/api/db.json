@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "name": "Jhon name",
+      "username": "Jhony",
+      "email": "jonhy@yahoo.com",
+      "phone": "9893548125",
+      "companiesId": "1",
+      "id": "1",
+      "title": "titulo 1"
+    },
+    {
+      "name": "Juan name",
+      "username": "Juan",
+      "email": "juan@gmail.com",
+      "phone": "9893878452",
+      "companiesId": "2",
+      "id": "4",
+      "title": "titulo 2"
+    },
+    {
+      "id": "5",
+      "name": "Niki name",
+      "username": "Niki",
+      "email": "sobhan@yahoo.com",
+      "phone": "989354812514",
+      "companiesId": "3",
+      "title": "titulo 3"
+    },
+    {
+      "name": "Raquel",
+      "username": "",
+      "email": "raquel_tovar@outlook.com",
+      "phone": "1234567899",
+      "companiesId": "1",
+      "id": "6",
+      "title": "titulo 4"
+    },
+    {
+      "id": "c726",
+      "usuario": "sdgf",
+      "apellidos": "sdgf",
+      "email": "dfgsg@",
+      "mensaje": "dsg",
+      "sexo": "Hombre",
+      "isChecked": true
+    },
+    {
+      "id": "706e",
+      "usuario": "eyer",
+      "apellidos": "ertr",
+      "email": "ertre@",
+      "mensaje": "gdfg",
+      "sexo": "Hombre",
+      "isChecked": true
+    },
+    {
+      "id": "d922",
+      "usuario": "fhfgfg",
+      "apellidos": "fghgh",
+      "email": "fghfg@",
+      "mensaje": "bfgfg",
+      "sexo": "Mujer",
+      "isChecked": true
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Eslava",
+      "catchPhrase": "Multi-layered client-server neural-net"
+    },
+    {
+      "id": "2",
+      "name": "Kattuska",
+      "catchPhrase": "Proactive didactic contingency"
+    },
+    {
+      "id": "3",
+      "name": "WelcomeDay",
+      "catchPhrase": "User-centric fault-tolerant solution"
+    }
+  ]
+}
